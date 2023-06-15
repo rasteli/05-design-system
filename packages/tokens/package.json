@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@rasteli-ignite-ui/tokens",
   "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -11,8 +11,8 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@rasteli-ignite-ui/eslint-config": "*",
+    "@rasteli-ignite-ui/ts-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.1.3"
   }
